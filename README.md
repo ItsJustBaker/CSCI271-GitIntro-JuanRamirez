@@ -1,1 +1,2 @@
-# CSCI271-GitIntro-JuanRamirez
+# My First GitHub Repository
+This is my very first repository on GitHub!
